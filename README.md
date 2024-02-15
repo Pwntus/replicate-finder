@@ -2,7 +2,7 @@
 
 > Proof of concept using language models to label models used for keyword search.
 
-A pre-labelled list of models is included in thsi repo at [model-keywords.json](./model-keywords.json)
+A pre-labelled list of models is included in this repo at [model-keywords.json](./model-keywords.json)
 
 ## Quickstart
 
