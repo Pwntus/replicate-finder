@@ -1,0 +1,18 @@
+{
+  "name": "replicate-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "http-server": "^14.1.1",
+    "node-fetch": "^2.7.0",
+    "replicate": "^0.26.0"
+  }
+}
